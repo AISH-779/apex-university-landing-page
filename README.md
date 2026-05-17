@@ -2,6 +2,10 @@
 
 A modern, visually stunning university landing page redesigned and rebuilt as a Next.js + Tailwind CSS project, inspired by [jguni.in](https://jguni.in/).
 
+## 🌐 Live Demo
+https://your-vercel-link.vercel.app
+
+
 ## ✨ Design Highlights
 
 - **Aesthetic**: Dark navy + warm gold — luxury academic feel

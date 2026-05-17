@@ -5,6 +5,8 @@ A modern, visually stunning university landing page redesigned and rebuilt as a 
 ## 🌐 Live Demo
 https://your-vercel-link.vercel.app
 
+## 📂 Repository
+https://github.com/AISH-779/apex-university-landing-page
 
 ## ✨ Design Highlights
 
